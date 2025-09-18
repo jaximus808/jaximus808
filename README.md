@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on: Campus Delivery Robot and more!
+- 🌱 I’m currently learning: Building Large Scale Applications
+- 💬 Ask me about: Go
+- 📫 How to reach me: j.k.poentis@wustl.edu or jaxonp808@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like animation, specifically 2d drawn animation
+
+Learn more at: www.jaxonp.com
+
 <!--
 **jaximus808/jaximus808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
