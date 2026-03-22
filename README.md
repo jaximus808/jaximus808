@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Campus Delivery Robot and more!
 - 🌱 I’m currently learning: Building Large Scale Applications
 - 💬 Ask me about: Go
-- 📫 How to reach me: j.k.poentis@wustl.edu or jaxonp808@gmail.com
+- 📫 How to reach me: jaxonp808@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like animation, specifically 2d drawn animation
 
